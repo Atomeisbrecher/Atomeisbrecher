@@ -1,54 +1,30 @@
-## Hi there 👋 
+# 👋 Привет!
 
-I feel enthusiastic about all kinds of IT-engineering and stuff, therefore I'd be glad to work on any challenging project in any imaginable branch:
-- AI
-- DevOps/DevSecOps
-- Cybersecurity
-- Software engineering
-- GameDev
-- Multiplatform applications
+Профессионально увлекаюсь IT-инженерией и всегда готов к сложным вызовам. Меня привлекают масштабные проекты на стыке технологий.
 
-# 🛠️ Current stack:
-## Frontend:
-### Web:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### 🎯 Сферы интересов:
+* **AI & Data Engineering**
+* **DevOps / DevSecOps** (Автоматизация и безопасность)
+* **Cybersecurity**
+* **Software Engineering** (High-load системы)
+* **GameDev & 3D Modeling**
+* **Multiplatform Development**
 
-![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B.svg?style=for-the-badge&logo=nuxt&logoColor=#00DC82)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+---
 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 🛠️ Технологический стек
 
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-5469d4?style=for-the-badge&logo=stripe&logoColor=ffffff)
+| Категория | Технологии и инструменты |
+| :--- | :--- |
+| **Frontend (Web)** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/-SASS-hotpink?logo=SASS&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![Nuxt JS](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=white) <br> ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black) ![Babel](https://img.shields.io/badge/-Babel-F9DC3e?logo=babel&logoColor=black) |
+| **Mobile & Cross** | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white) ![MUI](https://img.shields.io/badge/-Material%20UI-007FFF?logo=MUI&logoColor=white) |
+| **Backend & Cloud** | ![Python](https://img.shields.io/badge/-Python-3670A0?logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?logo=fastapi) ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) <br> ![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?logo=strapi&logoColor=white) ![Stripe](https://img.shields.io/badge/-Stripe-5469d4?logo=stripe&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) |
+| **DevOps & Infra** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white) |
+| **Databases** | ![Postgres](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DD0031?logo=redis&logoColor=white) ![MSSQL](https://img.shields.io/badge/-MSSQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white) |
+| **Observability** | ![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?logo=opentelemetry&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=Prometheus&logoColor=white) |
+| **Design & 3D** | ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white) |
 
-### Mobile:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/Material%20UI-%23FFFFFF.svg?style=for-the-badge&logo=MUI&logoColor=#007FFF)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+---
 
-## Backend:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571.svg?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-### DBs:
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-### Observability:
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-
-## 3D:
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+## 📈 Статистика
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atomeisbrecher&show_icons=true&theme=radical)

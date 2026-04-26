@@ -21,7 +21,7 @@
 | **DevOps & Infra** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ce5?logo=kubernetes&logoColor=white) |
 | **Databases** | ![Postgres](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DD0031?logo=redis&logoColor=white) ![MSSQL](https://img.shields.io/badge/-MSSQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white) |
 | **Observability** | ![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-000000?logo=opentelemetry&logoColor=white) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=Prometheus&logoColor=white) |
-|  **Cybersecurity** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+|  **Cybersecurity** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 | **Design & 3D** | ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white) |
 
 ---

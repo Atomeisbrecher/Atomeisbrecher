@@ -13,7 +13,7 @@
 ---
 
 ## 🛠️ Технологический стек
-
+|  Категория | Технологии и инструменты |
 | :--- | :--- |
 | **Frontend (Web)** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/-SASS-hotpink?logo=SASS&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![Babel](https://img.shields.io/badge/-Babel-F9DC3e?logo=babel&logoColor=black) <br> ![Nuxt JS](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=white) <br> ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)|
 | **Mobile & Cross** | ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white) ![MUI](https://img.shields.io/badge/-Material%20UI-007FFF?logo=MUI&logoColor=white) |

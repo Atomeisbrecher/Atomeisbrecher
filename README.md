@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Технологический стек (  Прошу не завидовать)))  )
+## 🛠️ Технологический стек
 |  Категория | Технологии и инструменты |
 | :--- | :--- |
 | **Frontend (Web)** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/-SASS-hotpink?logo=SASS&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Babel](https://img.shields.io/badge/-Babel-F9DC3e?logo=babel&logoColor=black) ![Vue 3](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white) <br> ![Nuxt JS](https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) <br> ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)|
